@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VisData_heatmap/static/css/main.601f0160.css",
+    "main.js": "/VisData_heatmap/static/js/main.0243e8be.js",
+    "static/js/787.f187c11c.chunk.js": "/VisData_heatmap/static/js/787.f187c11c.chunk.js",
+    "index.html": "/VisData_heatmap/index.html",
+    "main.601f0160.css.map": "/VisData_heatmap/static/css/main.601f0160.css.map",
+    "main.0243e8be.js.map": "/VisData_heatmap/static/js/main.0243e8be.js.map",
+    "787.f187c11c.chunk.js.map": "/VisData_heatmap/static/js/787.f187c11c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.601f0160.css",
+    "static/js/main.0243e8be.js"
+  ]
+}
